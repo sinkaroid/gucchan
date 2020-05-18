@@ -1,4 +1,4 @@
 bs4==0.0.1
 requests==2.23.0
 colorama==0.4.3
-time
+time==1.0.0
